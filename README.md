@@ -1,6 +1,6 @@
 # DND
 
-![GitHub Actions](https://github.com/lorexstaff/dnd-neto/workflows/Deploy/badge.svg)
+![CI](https://github.com/lorexstaff/dnd-neto/actions/workflows/deploy.yml/badge.svg)
 
 👉 [Смотреть на GitHub Pages](https://lorexstaff.github.io/dnd-neto)
 
